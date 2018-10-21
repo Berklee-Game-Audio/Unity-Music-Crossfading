@@ -252,6 +252,7 @@ GameObject:
   - component: {fileID: 179926800}
   - component: {fileID: 179926796}
   - component: {fileID: 179926795}
+  - component: {fileID: 179926794}
   m_Layer: 0
   m_Name: Audiosources
   m_TagString: Untagged
@@ -259,6 +260,18 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &179926794
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 179926793}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6aca46ee34f5a4a6e9c33df40206bf81, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  jumpToPercentage: 90
 --- !u!82 &179926795
 AudioSource:
   m_ObjectHideFlags: 0
