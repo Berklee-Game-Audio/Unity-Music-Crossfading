@@ -6,7 +6,7 @@ using UnityEngine;
 public class MusicTestLoops : MonoBehaviour {
 
     private bool m_Fire1;
-    public float jumpToPercentage = 90.0f;
+    public float jumpToPercentage = 0.90f;
 
     // Use this for initialization
     void Start () {

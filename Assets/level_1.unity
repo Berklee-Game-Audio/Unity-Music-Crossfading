@@ -271,7 +271,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6aca46ee34f5a4a6e9c33df40206bf81, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  jumpToPercentage: 90
+  jumpToPercentage: 0.9
 --- !u!82 &179926795
 AudioSource:
   m_ObjectHideFlags: 0
