@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/crossfading_example_scene.unity
+    guid: 81e6b151787dc4553877f7523bb12ada
   m_configObjects: {}
