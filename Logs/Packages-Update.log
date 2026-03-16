@@ -169,3 +169,14 @@ The following packages were updated:
   com.unity.xr.legacyinputhelpers from version 2.1.10 to 2.1.13
 The following packages were removed:
   com.unity.textmeshpro@3.0.6
+
+=== Sun Mar 15 20:42:59 2026
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.ai.navigation from version 2.0.9 to 2.0.10
+  com.unity.ide.rider from version 3.0.38 to 3.0.39
+  com.unity.ide.visualstudio from version 2.0.25 to 2.0.26
+  com.unity.timeline from version 1.8.9 to 1.8.10
